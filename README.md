@@ -1,2 +1,2 @@
 # PopCapFlashStuff
- Miscellaneous content from Angry Birds Flash Player entires using their Flash version of their framework.
+ Miscellaneous content from Flash Player entries of PopCap's games using their Flash version of their framework.
